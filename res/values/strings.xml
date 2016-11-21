@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dialog</string>
+    <string name="action_settings">Settings</string>
+    <string name="quit">退出</string>
+    <string name="hobby">你的爱好</string>
+    <string name="status">选择状态</string>
+    <string name="chooseFriend">选择好友</string>
+
+</resources>
